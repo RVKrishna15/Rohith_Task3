@@ -16,7 +16,7 @@ Password Generator is a beginner-friendly Python application that creates secure
 ## How to Run
 
 ```bash
-py password_generator.py
+py security.py
 ```
 
 ## Author
